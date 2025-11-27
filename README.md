@@ -1,5 +1,7 @@
 # Telemetry-Challenge-2025
 
+VIDEO YOUTUBE: https://youtu.be/mQSniKknSO8
+
 Este proyecto consistió en el diseño y construcción de un **sistema de telemetría inalámbrica para un carro RC**, desarrollado como parte del RC Cars Telemetry Challenge 2025. Se utilizó una **Raspberry Pi Pico 2W** como microcontrolador principal y un **módulo nRF24L01** para la transmisión de datos a una estación base en PC, permitiendo la visualización en tiempo real de múltiples parámetros del vehículo.
 
 ## Resumen del Proyecto
